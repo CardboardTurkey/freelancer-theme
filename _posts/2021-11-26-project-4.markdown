@@ -1,0 +1,27 @@
+---
+title: Upstream contributions
+layout: default
+modal-id: 3
+date: 2019-11-26
+img: upstream.png
+alt: image-alt
+category: Open source
+description: |
+  <ol>
+    <li>
+      <a href="https://github.com/labgrid-project/labgrid/pull/863">
+      	Add driver for TP-Link power strips to labgrid
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/nix-community/home-manager/pull/3156">
+      	Add module to nix's home-manager for zsh-substring-search
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/jeromelachaud/freelancer-theme/pull/146">
+        Update fontawesome version for this website's template
+      </a>
+    </li>
+  </ol>
+---

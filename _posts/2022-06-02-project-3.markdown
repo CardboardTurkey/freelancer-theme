@@ -1,0 +1,15 @@
+---
+title: PDGID
+layout: default
+modal-id: 2
+date: 2020-06-02
+img: python.png
+alt: image-alt
+project-date: May 2022
+category: Command-line tool
+description: |
+  <p>Link: <a href="https://gitlab.com/cardboardturkey/pdgid">
+     https://gitlab.com/cardboardturkey/pdgid</a></p>
+  <p>A command-line tool targeted at particle physicists. Identifies a
+  particle's ID number given its name and vice versa.</p>
+---

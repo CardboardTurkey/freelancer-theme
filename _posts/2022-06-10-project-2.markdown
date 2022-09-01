@@ -1,0 +1,23 @@
+---
+title: This Very Website
+layout: default
+modal-id: 4
+date: 2021-06-10
+img: web.png
+alt: image-alt
+project-date: June 2022
+category: Web Development
+description: |
+  <p>
+    This very website you're viewing is self-hosted on a raspberry pi and was
+    built by myself off a
+    <a href="https://github.com/CardboardTurkey/freelancer-theme/tree/my-portfolio">jekyll theme</a>.
+  </p>
+  <p>
+    I tried to follow "infrastructure as code" as much as possible when
+    building the hosting, using a mixture of
+    <a href="https://gitlab.com/CardboardTurkey/website">docker compose</a>
+    and systemd services embedded in 
+    <a href="https://gitlab.com/CardboardTurkey/nixos-config/-/blob/main/user-config/other/webserver.nix">nix</a>.
+  </p>
+---

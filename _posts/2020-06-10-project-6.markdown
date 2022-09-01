@@ -1,0 +1,13 @@
+---
+title: Blog Posts
+layout: default
+modal-id: 6
+date: 2017-06-10
+img: blog.png
+alt: image-alt
+description: |
+  <p> I maintain a blog <a href="https://kiran.ostrolenk.co.uk/blog">here</a>
+  where I talk about whatever personal projects I've been up to. </p>
+  <p>I also wrote a <a href="https://www.codethink.co.uk/articles/2021/hamsa-robot-hand/" target="_blank">blog post</a>
+  for Codethink on developing the firmware for a robot hand</p>
+---

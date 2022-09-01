@@ -1,0 +1,15 @@
+---
+title: Brainf*ck Interpreter
+layout: default
+modal-id: 1
+date: 2022-07-07
+img: rust.png
+alt: image-alt
+project-date: April 2022
+category: Command-line tool
+description: |
+  <p>Link: <a href="https://gitlab.com/kiran-rust-course/project">
+     https://gitlab.com/kiran-rust-course/project</a></p>
+  <p>A command-line tool that I wrote as part of training course on rust,
+     complete with error handling, automated testing and documentation.</p>
+---

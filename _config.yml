@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Kiran Ostrolenk
+email: xwkzkqgj
+url: https://kiran.ostrolenk.co.uk/
+description: "Homepage for Kiran Ostrolenk"
+keywords: "Software,Engineer,Kiran,Ostrolenk"
+skills: "Software Engineer - FOSS Enthusiast"
+meta_author: Ostrolenk Kiran
 
 # Google webmaster tools
 google_verify:
@@ -34,31 +34,32 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Kiran Ostrolenk
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/cardboardturkey
+  - title: gitlab
+    url: http://gitlab.com/cardboardturkey
+  - title: linkedin
+    url: https://www.linkedin.com/in/kiran-ostrolenk-b0b956176/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Manchester, UK
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits:
+  - 'Jekyll theme: <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>'
+  - 'Website icon: <a href="https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free">Elegant themes</a>'
+  - 'PR icon: <a href="https://primer.style/octicons/">Octicons</a>'
+  - 'Award icon: <a href="https://www.iconfinder.com/iconsets/tutor-icon-set">Boca Tutor</a>'
+  - 'Blog icon: <a href="https://www.iconfinder.com/iconsets/new-year-resolutions">Aami Flat</a>'
+
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,32 @@
+---
+title: Certificates/Awards
+layout: default
+modal-id: 5
+date: 2018-06-10
+img: phd.png
+alt: image-alt
+project-date: June 2022
+category: Web Development
+description: |
+  <ul>
+    <li>
+      <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000494994/vmwrdg3jv6" target="_blank">
+        LPIC-1 from the Linux Professional Institute
+      </a>
+    </li>
+    <li>
+      <a href="img/certificates/K.Ostrolenk_FSP.pdf" target="_blank">
+        Automotive Functional Safety Practitioner
+      </a>
+    </li>
+    <li>
+      <a href="img/certificates/K.Ostrolenk_CSP.pdf" target="_blank">
+        Automotive Cyber Security Practitioner
+      </a>
+    </li>
+    <li>
+      PhD in Theoretical Physics. My proudest contribution:
+      <a href="https://bazaar.launchpad.net/~madteam/mg5amcnlo/3.x/revision/78.440.14" target="_blank">
+      a module</a> that refactors Fortran code to improve performance.</li>
+  </ul>
+---
