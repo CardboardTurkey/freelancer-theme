@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    background: #{{ site.color.background }};
 }
 
 p {
@@ -22,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.links }};
 }
 
 h1,
@@ -38,7 +39,7 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
+    margin: 25px auto 50px;
     padding: 0;
     max-width: 250px;
     border: 0;
@@ -73,11 +74,14 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
+    background-color: #{{ site.color.background }};
 }
 
-.img-centered {
-    margin: 0 auto;
+.img-post {
+    margin: 0 auto 100px;
+    width: 400px;
+    height: auto;
+    border-radius: 10%;
 }
 
 header {
@@ -370,6 +374,11 @@ footer .footer-col {
     margin-bottom: 50px;
 }
 
+footer .footer-col .list-credits {
+    font-size: 15px;
+    list-style: none;
+}
+
 footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
@@ -418,15 +427,24 @@ footer .footer-below {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    background-color: #{{ site.color.background }};
 }
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
+    text-align: center;
     font-size: 3em;
+}
+
+.portfolio-modal .modal-content p {
+    font-size: 1.7em;
+}
+
+.portfolio-modal .modal-content ol, ul {
+    font-size: 1.7em;
 }
 
 .portfolio-modal .modal-content img {
@@ -435,6 +453,10 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
+}
+
+.portfolio-modal .modal-content .modal-footer {
+    text-align: center;
 }
 
 .portfolio-modal .close-modal {
@@ -474,6 +496,10 @@ footer .footer-below {
 
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
+}
+
+.bullet {
+    margin-right: 7px;
 }
 
 /* Fix modal mouse wheel issues */
