@@ -3,7 +3,7 @@ title: PDGID
 layout: default
 modal-id: 2
 date: 2020-06-02
-img: python.png
+img: python.svg
 alt: image-alt
 project-date: May 2022
 category: Command-line tool

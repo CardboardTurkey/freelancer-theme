@@ -3,7 +3,7 @@ title: Brainf*ck Interpreter
 layout: default
 modal-id: 1
 date: 2022-07-07
-img: rust.png
+img: rust.svg
 alt: image-alt
 project-date: April 2022
 category: Command-line tool

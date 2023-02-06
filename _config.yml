@@ -56,10 +56,9 @@ address:
 credits:
   - 'Jekyll theme: <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>'
   - 'Website icon: <a href="https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free">Elegant themes</a>'
-  - 'PR icon: <a href="https://primer.style/octicons/">Octicons</a>'
   - 'Award icon: <a href="https://www.iconfinder.com/iconsets/tutor-icon-set">Boca Tutor</a>'
   - 'Blog icon: <a href="https://www.iconfinder.com/iconsets/new-year-resolutions">Aami Flat</a>'
-
+  - 'Other icons: Font awesome'
 
 # Build settings
 markdown: kramdown

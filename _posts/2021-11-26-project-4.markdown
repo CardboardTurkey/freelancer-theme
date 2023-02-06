@@ -3,7 +3,7 @@ title: Upstream contributions
 layout: default
 modal-id: 3
 date: 2019-11-26
-img: upstream.png
+img: upstream.svg
 alt: image-alt
 category: Open source
 description: |

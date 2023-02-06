@@ -3,7 +3,7 @@ title: Certificates/Awards
 layout: default
 modal-id: 5
 date: 2018-06-10
-img: phd.png
+img: phd.svg
 alt: image-alt
 project-date: June 2022
 category: Web Development

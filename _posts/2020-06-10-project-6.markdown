@@ -3,7 +3,7 @@ title: Blog Posts
 layout: default
 modal-id: 6
 date: 2017-06-10
-img: blog.png
+img: blog.svg
 alt: image-alt
 description: |
   <p> I maintain a blog <a href="https://kiran.ostrolenk.co.uk/blog">here</a>

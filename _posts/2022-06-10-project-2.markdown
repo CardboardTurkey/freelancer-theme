@@ -3,7 +3,7 @@ title: This Very Website
 layout: default
 modal-id: 4
 date: 2021-06-10
-img: web.png
+img: web.svg
 alt: image-alt
 project-date: June 2022
 category: Web Development
